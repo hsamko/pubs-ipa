@@ -1,0 +1,46 @@
+# Build products
+build/
+DerivedData/
+*.app
+*.ipa
+
+# Xcode files
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad/
+*.xcodeproj/
+*.xcscmblueprint
+*.xcscheme
+*.xcscheme.xcscheme
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+*.log
+*.DS_Store
+*.user
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserdata/
+
+# Archives
+*.xcarchive
+
+# Other
+*.docset
+*.tbd
